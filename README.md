@@ -23,4 +23,4 @@
 
 
 ## System Architecture 🖥️
-(images/structure.png)
+![MSG스트럭처](images/structure.png)
